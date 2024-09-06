@@ -19,13 +19,11 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Perspiciatis, voluptatum?
+            I am a full-stack web developer with expertise in the MERN stack, actively solving data structures and algorithms on LeetCode. Currently, I am pursuing my Master of Computer Applications (MCA) to further enhance my technical skills.
             </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis,
-              sit.
-            </p>
+            {/* <p>
+              Passionate about developing websites, solving DSA problems. 
+            </p> */}
           </div>
           <div className="about-skills">
             <div className="about-skill">

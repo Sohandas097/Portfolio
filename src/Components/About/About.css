@@ -36,6 +36,9 @@
   font-size: 24px;
   font-weight: 500;
 }
+.about-para p{
+  width: 1000px;
+}
 .about-skills {
   display: flex;
   flex-direction: column;
@@ -120,6 +123,9 @@
     font-size: 18px;
     line-height: 32px;
   }
+  .about-para p{
+    width: 450px;
+  }
   .about-skill {
     gap: 20px;
     align-items: center;
@@ -130,7 +136,7 @@
   .about-skill hr {
     height: 6px;
   }
-  about-achievements {
+  .about-achievements {
     justify-content: space-between;
   }
   .about-achievement {
