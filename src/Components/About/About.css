@@ -1,4 +1,6 @@
 .about {
+  background-color: #df8908;
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   align-items: center;
