@@ -13,9 +13,9 @@ const About = () => {
         <img src={theme_pattern} alt="" />
       </div>
       <div className="about-sections">
-        <div className="about-left">
-          <img src={sideprofile} alt="" />
-        </div>
+        {/* <div className="about-left"> */}
+          {/* <img src={sideprofile} alt="" /> */}
+        {/* </div> */}
         <div className="about-right">
           <div className="about-para">
             <p>
