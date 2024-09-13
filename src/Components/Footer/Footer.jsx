@@ -23,9 +23,9 @@ const Footer = () => {
         <div className="footer-bottom">
           <p className="footer-bottom-left">&#169; 2024 Sohan Das.  All rights reserved.</p>
           <div className="footer-bottom-right">
-            <p>Term of services</p>
-            <p>Privacy policy</p>
-            <p>Connect with me</p>
+            <a className='leetcode' href="https://leetcode.com/u/Sohandas/" target='_blank'><p>LeetCode</p></a>
+            <a className='github' href="https://github.com/Sohandas097" target='_blank'><p>GitHub</p></a>
+            <a className='linkedin' href="https://www.linkedin.com/in/sohan-das-86966626b/" target='_blank'><p>LinkedIn</p></a>
           </div>
         </div>
     </div>
